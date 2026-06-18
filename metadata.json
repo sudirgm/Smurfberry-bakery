@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Smurfberry Bakery",
+  "description": "A magical winter fantasy bakery landing page with cozy Smurfberry desserts, snowflakes, and sparkling frosting effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
